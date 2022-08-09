@@ -1,0 +1,29 @@
+/* Google Logo */
+
+img {       /* Google Logo */
+    display: block;
+margin: auto ;
+}
+ 
+
+.gray {     /* Search Row */ 
+text-align: center ;
+background-color: #EEEEEE ;
+
+
+}
+
+table {
+   margin: auto ;
+   width: 90%;
+   table-layout: fixed;
+}
+
+.aqua {
+    background-color: #7EE5DA ;
+    text-align: center ;
+}
+
+.copyright {
+    text-align: center ;
+}
