@@ -1,0 +1,28 @@
+/* 
+en açık renk #f8f9fa
+en koyu renk #212529
+koyu gri #343a40
+açık gri #495057
+ */
+
+ .navbar {
+    background:#212529 !important ;
+ }
+
+#jumbotron-img {
+    background-image: url(https://images.unsplash.com/photo-1535587566541-97121a128dc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80) ;
+background-size: 100%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 45vh;
+}
+
+.card {
+    min-height: 200px;
+}
+
+main {
+    min-height: calc(100vh - 160px);
+}
