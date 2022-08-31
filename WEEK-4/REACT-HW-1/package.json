@@ -1,0 +1,15 @@
+{
+  "name": "react-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start":"node index.js"
+  },
+  "author": "hande kurtulus yildiz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
